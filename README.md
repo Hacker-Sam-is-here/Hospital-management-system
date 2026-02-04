@@ -1,6 +1,7 @@
 # Hospital Management System
 
 A modern web application for managing hospital operations, built with vanilla JavaScript and Supabase.
+Live Demo: https://hospital-management-system-1-1483.onrender.com/
 
 ## 👥 Group 124
 
