@@ -3,13 +3,6 @@
 A modern web application for managing hospital operations, built with vanilla JavaScript and Supabase.
 Live Demo: https://hospital-management-system-1-1483.onrender.com/
 
-## 👥 Group 124
-
-| Name | Roll Number |
-|------|-------------|
-| Rohit Sharma | 2024481 |
-| Sameer | 2024501 |
-| Harsh | 2024235 |
 
 ## 🚀 Features
 
