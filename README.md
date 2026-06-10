@@ -109,3 +109,6 @@ npm run preview  # Preview production build
 ## 📄 License
 
 This project is for educational purposes - DBMS Course Project.
+
+## Contributor
+Rohit Sharma
